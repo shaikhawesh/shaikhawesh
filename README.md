@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently Pursuing IMCA from LJ University<br>I am learning Python Now<br><br>Wanted to become a AI/ML Speacialist
+I Have Completed BCA from LJ University<br>I am learning Python Now<br><br>Wanted to become a AI/ML Speacialist
 
 
 ## 🌐 Socials:
